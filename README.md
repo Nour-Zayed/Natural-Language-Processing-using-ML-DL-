@@ -18,6 +18,7 @@ Training and evaluating the model
 Visualizing accuracy & loss metrics
 
 Final evaluation with confusion matrix and classification report
+
 ✅ Achieved high accuracy for classifying messages as Spam or Ham
 
  ## 📄 Restaurant_Review_ML.ipynb
@@ -36,6 +37,8 @@ Feature extraction with Bag of Words (CountVectorizer)
 ML model building using Naive Bayes
 
 Model evaluation with accuracy, confusion matrix, and classification report
+
 ✅ Accuracy achieved: 73%
+
 ✅ Saved trained model as .pkl file for production
 
